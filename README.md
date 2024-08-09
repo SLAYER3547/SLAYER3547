@@ -59,6 +59,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SLAYER3547/SLAYER3547/output/snake.svg" alt="Snake animation" />
+
 
 ###
